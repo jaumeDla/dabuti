@@ -1,5 +1,5 @@
 {
-  "name": "electron-plugin",
+  "name": "vite-plugin-electron-react",
   "version": "1.0.0",
   "description": "Electron plugin to app",
   "main": "index.js",
